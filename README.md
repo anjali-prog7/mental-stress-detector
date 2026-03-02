@@ -1,4 +1,5 @@
 🧠 Mental Stress Detector
+
 📖 Project Description
 
 Mental Stress Detector is a Machine Learning based web application that predicts whether a person is experiencing mental stress based on textual input.
