@@ -49,11 +49,17 @@ The project follows these steps:
 📂 Project Structure
 #Code
 Mental-Stress-Detector/
+
 │
+
 ├── mental_stress_model.pkl
+
 ├── app.py (if deployed using Streamlit)
+
 ├── notebook.ipynb
+
 ├── datase.csv
+
 └── README.md
 
 🚀 How to Run the Project
