@@ -57,6 +57,7 @@ Mental-Stress-Detector/
 └── README.md
 
 🚀 How to Run the Project
+
 ▶️ If Running in Jupyter Lab:
 
 1. Open Jupyter Lab.
@@ -100,5 +101,7 @@ This project was developed for learning and implementing:
 👩‍💻 Developed By
 
 Anjali
+
 B.Tech Student
+
 AI/ML Enthusiast
